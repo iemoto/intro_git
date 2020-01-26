@@ -3,3 +3,7 @@ Gitの練習していきます。
 /Git commit
 /Git add
 /git status
+
+aaa
+
+aa
